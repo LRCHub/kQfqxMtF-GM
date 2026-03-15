@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "葉桜",
+  "base_artist": "北乃きい",
+  "createdAt": "2026-03-15T18:20:53.972837Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "葉桜",
+      "artist": "Masaki Kawasaki",
+      "has_synced": false,
+      "path": "select/01_葉桜_Masaki_Kawasaki.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "葉桜",
+      "artist": "北乃きい",
+      "has_synced": true,
+      "path": "select/02_葉桜_北乃きい.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "葉桜",
+      "artist": "Kii Kitano",
+      "has_synced": true,
+      "path": "select/03_葉桜_Kii_Kitano.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "葉桜",
+      "artist": "北乃 きい",
+      "has_synced": false,
+      "path": "select/pl_01_葉桜_北乃_きい.txt"
+    }
+  ]
+}
